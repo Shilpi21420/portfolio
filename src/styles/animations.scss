@@ -1,0 +1,15 @@
+
+//animation for home BsChevronDown 
+@keyframes animateSvg {
+  to {
+    transform: translate(-50%, -10px);
+  }
+}
+
+
+//animation for contact page
+@keyframes upupdowndown {
+  to {
+    transform: translateY(-10px);
+  }
+}
